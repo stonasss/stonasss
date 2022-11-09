@@ -12,7 +12,7 @@
 
 <h3>I was born in Itaboraí, state of Rio de Janeiro in Brazil, however, at the age of one, I moved to the US (Florida, to be specific) with my family. My first language, therefore, is English, and I studied there from pre-school to 3rd grade, and returned to Brazil at age 9.
 
-</br>Since returning, I haven't left the state, but have moved several times between cities, including Itaboraí, Volta Redonda and Rio de Janeiro.
+</br>Since returning, I haven't left the state of Rio de Janeiro, but have moved several times between cities, including Itaboraí, Volta Redonda and the city of Rio de Janeiro.
 
 I studied and graduated in Biology at UNIRIO, having focused my efforts in botanical taxonomy, but as you can see, I eventually decided to switch careers.
 
