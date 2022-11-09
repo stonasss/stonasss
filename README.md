@@ -4,7 +4,7 @@
 - 👋 My name is Luis Bernardo, but you can just call me Luis, or BB.
 - 🌱 I'm currently studying to be a full-stack developer at Driven Education
 - ⚡ Pronouns: he/him
-- 😄 Fun fact: In my spare time, I compose and record music, having released two albums
+- 😄 Fun fact: I compose music, and have released <a href="https://milkemohoney.bandcamp.com/">two albums</a>
 </h3>
 <br>
 
