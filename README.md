@@ -28,7 +28,7 @@ Although I am still new to this world, I'm excited not only to improve my skills
 <a href="https://www.linkedin.com/in/luisbernardoss/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="120"/>
   
 ## ⚙️ &nbsp;My GitHub numbers
-<div>
+<div align=center>
   <a href="https://github.com/stonasss">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=stonasss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stonasss&layout=compact&langs_count=7&theme=dracula"/>
