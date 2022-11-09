@@ -1,9 +1,10 @@
-### Hi there 👋 Allow me to introduce myself!
+### Hi there! Allow me to introduce myself:
 
 - 👋 My name is Luis Bernardo, but you can just call me Luis, or BB.
 - 🌱 I'm currently studying to be a full-stack developer at Driven Education
 - ⚡ Pronouns: he/him
 - 😄 Fun fact: In my spare time, I compose and record music, having released two albums
+<br>
 
 ### A little more about myself
 
