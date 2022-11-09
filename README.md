@@ -21,7 +21,7 @@ Despite the gap between programming and biology, I had always been curious about
 
 That being said, I decided to dwelve into the subject. Since then, I have been greatly enthusiastic for my future as a programmer.
 
-Although I am still new to this world, I'm excited not only to improve my skills and gather knowledge, but also to find out what comes next, with hopes that I can somehow make a difference. </h3>
+Although I am still new to this world, I'm excited not only to improve my skills and to gather knowledge, but also to find out what comes next, with hopes that I can somehow make a difference. </h3>
 
 ## 📫 You can find me at
 <br>
