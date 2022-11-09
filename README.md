@@ -5,8 +5,8 @@
 - 🌱 I'm currently studying to be a full-stack developer at Driven Education
 - ⚡ Pronouns: he/him
 - 😄 Fun fact: In my spare time, I compose and record music, having released two albums
-<br>
 </h3>
+<br>
 
 ### 📖 A little more about myself
 
