@@ -1,7 +1,7 @@
 ### Hi there! Allow me to introduce myself:
 <h3>
 
-- 👋 My name is Luis Bernardo, but you can just call me Luis, or BB.
+- 👋 My name is Luis Bernardo, but you can just call me Luis, or BB
 - 🌱 I'm currently studying to be a full-stack developer at Driven Education
 - ⚡ Pronouns: he/him
 - 😄 Fun fact: I compose music, and have released <a href="https://milkemohoney.bandcamp.com/">two albums</a>
