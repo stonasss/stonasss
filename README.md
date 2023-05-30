@@ -23,7 +23,7 @@ That being said, I decided to dwelve into the subject. Since then, I have been g
 Although I am still new to this world, I'm excited not only to improve my skills and to gather knowledge, but also to find out what comes next, with hopes that I can somehow make a difference. </p></br>
 
 ### Technologies I've dealt with:
-<h3>
+<p>
 
 - JavaScript
 - TypeScript
@@ -33,7 +33,7 @@ Although I am still new to this world, I'm excited not only to improve my skills
 - React
 - Vite
 - Jest 
-</h3>
+</p>
 
 ## ⚙️ &nbsp;My GitHub numbers
 <div align=center>
