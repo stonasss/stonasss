@@ -10,7 +10,7 @@
 
 ### 📖 A little more about myself
 
-<p></br>I was born in Itaboraí, state of Rio de Janeiro in Brazil, however, at the age of one, I moved to the US (Florida, to be specific) with my family. My first language, therefore, is English, and I studied there from preschool to 3rd grade, and returned to Brazil at age 9.
+<p></br>I was born in Itaboraí, state of Rio de Janeiro in Brazil, however, at the age of one, I moved to the US (Florida, to be specific) with my family. My first language, therefore, is English, and I studied there from preschool to 3rd grade, having returned to Brazil at age 9.
 
 Since returning, I studied and graduated in Biology at UNIRIO, having focused my efforts in botanical taxonomy, but as you can see, I eventually decided to switch careers.
 
