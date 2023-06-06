@@ -17,8 +17,7 @@ Since returning, I studied and graduated in Biology at UNIRIO, having focused my
 I had always been curious about coding in general, probably a result of my interest in technology ever since I was a child. That being said, I decided to dwelve into the subject and, since then, I have been greatly enthusiastic for my future as a programmer.
 
 Throughout my studies and development of numerous projects, I've already much to show, and intend to hone what I already know while simultaneously expanding upon my array of knowledge. Take a look and see what I mean!  </p></br>
-
-### Technologies I've dealt with:
+### 💻 Technologies I've dealt with:
 <p>
 
 - JavaScript
