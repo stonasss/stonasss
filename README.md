@@ -2,7 +2,7 @@
 <h3>
 
 - 👋 My name is Luis Bernardo, but you can just call me Luis, or BB
-- 🌱 I'm currently studying to be a full-stack developer at Driven Education
+- 🌱 I'm currently learning Vite and TailwindCSS
 - ⚡ Pronouns: he/him
 - 😄 Fun fact: I compose music, and have released <a href="https://milkemohoney.bandcamp.com/">two albums</a>
 </h3>
@@ -14,21 +14,21 @@
 
 Since returning, I studied and graduated in Biology at UNIRIO, having focused my efforts in botanical taxonomy, but as you can see, I eventually decided to switch careers.
 
-Obviously, there's a gap between programming and biology, but I had always been curious about the former, probably a result of my interest in technology ever since I was a child. That being said, I decided to dwelve into the subject. Since then, I have been greatly enthusiastic for my future as a programmer.
+I had always been curious about coding in general, probably a result of my interest in technology ever since I was a child. That being said, I decided to dwelve into the subject and, since then, I have been greatly enthusiastic for my future as a programmer.
 
-Despite my recent entry in this world, throughout my studies and development of numerous projects, I've already much to show, and intend to hone what I already while simultaneously expanding upon my array of knowledge.  </p></br>
+Throughout my studies and development of numerous projects, I've already much to show, and intend to hone what I already know while simultaneously expanding upon my array of knowledge. Take a look and see what I mean!  </p></br>
 
 ### Technologies I've dealt with:
 <p>
 
 - JavaScript
 - TypeScript
+- React
+- Node.js
 - Postgres
 - Prisma
-- MongoDB
-- React
-- Vite
-- Jest 
+- Jest
+- Git
 </p>
 
 ## ⚙️ &nbsp;My GitHub numbers
