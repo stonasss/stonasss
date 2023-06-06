@@ -12,15 +12,11 @@
 
 <p></br>I was born in Itaboraí, state of Rio de Janeiro in Brazil, however, at the age of one, I moved to the US (Florida, to be specific) with my family. My first language, therefore, is English, and I studied there from preschool to 3rd grade, and returned to Brazil at age 9.
 
-Since returning, I haven't left the state of Rio de Janeiro, but have moved several times between cities, including Itaboraí, Volta Redonda and the city of Rio de Janeiro.
+Since returning, I studied and graduated in Biology at UNIRIO, having focused my efforts in botanical taxonomy, but as you can see, I eventually decided to switch careers.
 
-I studied and graduated in Biology at UNIRIO, having focused my efforts in botanical taxonomy, but as you can see, I eventually decided to switch careers.
+Obviously, there's a gap between programming and biology, but I had always been curious about the former, probably a result of my interest in technology ever since I was a child. That being said, I decided to dwelve into the subject. Since then, I have been greatly enthusiastic for my future as a programmer.
 
-Despite the gap between programming and biology, I had always been curious about the former, which I tend to assume is a result of my interest in technology ever since I was a child. 
-
-That being said, I decided to dwelve into the subject. Since then, I have been greatly enthusiastic for my future as a programmer.
-
-Although I am still new to this world, I'm excited not only to improve my skills and to gather knowledge, but also to find out what comes next, with hopes that I can somehow make a difference. </p></br>
+Despite my recent entry in this world, throughout my studies and development of numerous projects, I've already much to show, and intend to hone what I already while simultaneously expanding upon my array of knowledge.  </p></br>
 
 ### Technologies I've dealt with:
 <p>
