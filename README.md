@@ -2,7 +2,7 @@
 <h3>
 
 - 👋 My name is Luis Bernardo, but you can just call me Luis, or BB
-- 🌱 I'm currently learning PHP and Angular
+- 🌱 I'm currently learning Next.js
 - ⚡ Pronouns: he/him
 - 😄 Fun fact: I compose music, and have released <a href="https://milkemohoney.bandcamp.com/">two albums</a>
 </h3>
