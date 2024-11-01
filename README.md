@@ -72,6 +72,10 @@ Throughout my studies and development of numerous projects, I've already much to
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
   <img width="12" /> Bash
         </td>
+        <td>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="next logo"  />
+  <img width="12" /> Next.js
+        </td>
       </tr>
       <tr>
         <td>
