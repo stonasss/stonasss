@@ -28,8 +28,8 @@ Throughout my studies and development of numerous projects, I've already much to
   <img width="12" /> Typescript</td>
         <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" /> React</td>
-        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" /> Jest</td>
+        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" /> Python</td>
         <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" /> HTML</td>
       </tr>      
@@ -39,8 +39,8 @@ Throughout my studies and development of numerous projects, I've already much to
   <img width="12" /> CSS
         </td>
         <td>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="40" alt="webpack logo"  />
-  <img width="12" /> Webpack
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img width="12" /> Jest
         </td>
         <td>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
@@ -88,12 +88,12 @@ Throughout my studies and development of numerous projects, I've already much to
 </div>
         </td>
         <td>
-  <img src="https://cdn1.iconfinder.com/data/icons/system-black-circles/512/linux_mint-512.png" height="40" alt="linux mint logo"  />
-  <img width="12" /> Linux Mint
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
+  <img width="12" /> Vue.js
         </td>
         <td>
-  <img src="https://pt.vitejs.dev/logo-with-shadow.png" height="40" alt="vite logo"  />
-  <img width="12" /> Vite
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
+  <img width="12" /> Flask
         </td>
         <td>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" height="40" alt="tailwindcss logo"  />
